@@ -1,6 +1,6 @@
 # Shortest Path Finder
 
-This Python project demonstrates Dijkstra's algorithm to find the shortest path of road networks and districts of the Central Region in Malawi but it can be used in other apllications to find the shortest path  in a graph. It includes a `Graph` class that allows you to define a graph by adding edges between nodes and find the shortest path between two nodes/places.
+This Python project demonstrates Dijkstra's algorithm to find the shortest path of road networks and districts of the Central Region in Malawi but it can be used in other apllications to find the shortest path  in a weighted graph. It includes a `Graph` class that allows you to define a graph by adding edges between nodes and find the shortest path between two nodes/places.
 
 ## Table of Contents
 

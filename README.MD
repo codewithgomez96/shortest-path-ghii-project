@@ -35,12 +35,15 @@ This Python project demonstrates Dijkstra's algorithm to find the shortest path 
     ```shell
     graph.add_edge("Start_Node", "End_Node", Weight)
 
+   ```
+
 ### Example
 
     Here's an example of adding edges to the graph:
     ```shell
     graph.add_edge("Mchinji", "Kasungu", 141)
     graph.add_edge("Kasungu", "Mchinji", 141)
+   ```
 
 ## Requirements
 
